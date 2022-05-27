@@ -52,6 +52,7 @@ The **XGB Classifier** model is the best compared to the others (Although not im
 * Tune using hyperparameters tuning on **preprocessor** & **XGB Classifier**
 * Final score of 0.52964 (increased by 0.13%)
 * Optimized hyperparameters:
+
 |Hyperparameter|Value|
 |:-|:-|
 |`preprocessor__num__imputer__strategy`|`mean`|
@@ -69,5 +70,5 @@ The **XGB Classifier** model is the best compared to the others (Although not im
   * Use original labels for leakage data
   * Use model prediction for non-leakage data
 
-![alt text](solution.png)
+![alt text](Solution.png)
 
